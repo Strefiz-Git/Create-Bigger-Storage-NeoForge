@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:diamond_block"
+    },
+    "I": {
+      "item": "minecraft:glass"
+    },
+    "V": {
+      "item": "create_bs:gold_item_vault"
+    }
+  },
+  "pattern": [
+    "III",
+    "BVB",
+    "III"
+  ],
+  "result": {
+    "id": "create_bs:crystal_item_vault",
+    "count": 1
+  },
+  "show_notification": true
+}
